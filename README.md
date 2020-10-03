@@ -2,7 +2,7 @@
 ### Hi I'm Alejandro 👋
 I'm Junior Web Dev. Currently I'm learning React.js 
 
-Actually I’m working on my own project [Yoop](http://yoop.com.ar) and create a system for [Plaqui](https://instagram.com/plaqui_deco)💻. 
+Actually I’m working on my own project [Yoop](http://yoop.com.ar). 
 
 For my projects I'm using the stack ReactJs+Firebase 
 
