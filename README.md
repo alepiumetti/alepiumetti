@@ -1,6 +1,6 @@
 <!-- **alepiumetti/alepiumetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### Hi I'm Alejandro 👋
-I'm Junior Web Dev. Currently I'm learning React.js 
+I'm Web Dev. Currently I'm learning React.js 
 
 Actually I’m working on my own project [Yoop](http://yoop.com.ar). 
 
