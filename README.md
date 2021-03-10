@@ -31,5 +31,4 @@ My Skills:
 Learning:
 
 - [x] ExpressJs
-- [ ] Dart
-- [ ] Flutter
+
