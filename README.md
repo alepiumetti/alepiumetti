@@ -1,11 +1,6 @@
 ## ¡Hola! Soy Ale... 👋 
-### pero me llaman Piuma
-Soy desarrollador web bastante inquieto.
-
-<a hreef="https://www.linkedin.com/in/alejandro-g-piumetti-46aa34103/"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" width="25px"/></a>
-
-
-
+### Me llaman Piuma
+Soy desarrollador web inquieto.
 ___
 
 🎓 Estudiante de [Analista Universitario en Sistemas](https://www.ips.edu.ar/). 
@@ -20,33 +15,50 @@ ___
 
 🐕 Uso stickers de gatitos pero tengo un perro.
 
-Lo que hice:
- 
-#### [Yoop](https://yoop.com.ar) 
-##### La primera tarjeta de beneficios para pasteleros
 ___
+
+### Lo que hice:
+ 
+- [Yoop](https://yoop.com.ar) - La primera tarjeta de beneficios para pasteleros
 - [Scraper - Dolar hoy](https://github.com/alepiumetti/scraper)
+___
+
+### Lo que estoy haciendo:
+
 - Sweet - Sistema de Gestión para pasteleros
 
+- [Resoluciones en C](https://github.com/alepiumetti/IPS-TrabajosC) - Publico lo que voy a prendiendo en la facultad.
 
-Certificaciones: 
+___
+
+### En paralelo hago:
+
+- [Bot de cuentas](https://github.com/kotorigadaisuki/BotDeCuentas) - Bot para Telegram para llevar los gastos.
+
+- [Blog](https://alepiumetti.github.io/blog/) - Reactivándolo para documentar mis andanzas.
+
+- [HackFun - Instagram](https://www.instagram.com/hackfunrosario/) - 
+
+___
+
+
+## Certificaciones: 
 
 - [MercadoPago Certified Developer](https://drive.google.com/file/d/1DbqEwTw1Kz9F4Egwpdoe1rEgkDKSjlEP/view?usp=sharing)
 
 ___
 
 Lo que utilizo:
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/120px-React.svg.png" height=30px/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height=35px/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height=35px/>
+<img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" height=25px/>
+<img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" height=25px/>
+<img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" height=25px/> 
 <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" height=35px/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" height=35px/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" height=35px/>
+<img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height=35px/>
+<img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor" height=35px/>
+<img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" height=35px/>
+<img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" height=35px/>
 
 
-<a href="https://github.com/alepiumetti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alepiumetti&show_icons=true&count_private=true&hide=prs,issues&theme=graywhite" />
-</a>
 <a href="https://github.com/alepiumetti">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alepiumetti&layout=compact" />
 </a>
