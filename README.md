@@ -37,7 +37,7 @@ ___
 
 - [Blog](https://alepiumetti.github.io/blog/) - Reactivándolo para documentar mis andanzas.
 
-- [HackFun - Instagram](https://www.instagram.com/hackfunrosario/) - 
+- [HackFun](https://hackfunrosario.com/) - Hackerspace Itinerante del que formo parte.
 
 ___
 
@@ -48,7 +48,8 @@ ___
 
 ___
 
-Lo que utilizo:
+### Herramientas que utilizo:
+
 <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" height=25px/>
 <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" height=25px/>
 <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" height=25px/> 
@@ -58,6 +59,7 @@ Lo que utilizo:
 <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" height=35px/>
 <img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" height=35px/>
 
+___
 
 <a href="https://github.com/alepiumetti">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alepiumetti&layout=compact" />
