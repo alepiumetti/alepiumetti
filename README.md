@@ -28,6 +28,11 @@ My Skills:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" height=35px/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" height=35px/>
 
-![Ale's github stats](https://github-readme-stats.vercel.app/api?username=alepiumetti&show_icons=true&theme=graywhite)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alepiumetti&layout=compact)]
+<a href="https://github.com/alepiumetti">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alepiumetti&show_icons=true&theme=graywhite" />
+</a>
+<a href="https://github.com/alepiumetti">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alepiumetti&layout=compact" />
+</a>
+
