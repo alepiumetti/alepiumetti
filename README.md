@@ -7,7 +7,7 @@ ___
 
 🔧 Para mis proyectos uso React.Js y Firebase.
 
-💻 Tengo una [página web](https://alejandropiumetti.com.ar) que está en constante mejora. 
+💻 Tengo una [página web](https://alejandropiumetti.com.ar) que siempre estoy mejorando. 
 
 🧰 Al final del día siempre me estoy ensuciando las manos con hardware.
 
