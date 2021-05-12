@@ -50,6 +50,7 @@ ___
 
 ### Herramientas que utilizo:
 
+
 <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" height=25px/>
 <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" height=25px/>
 <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" height=25px/> 
