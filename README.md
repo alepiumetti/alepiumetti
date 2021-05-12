@@ -28,7 +28,4 @@ My Skills:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" height=35px/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" height=35px/>
 
-Learning:
-
-- [x] ExpressJs
-
+![Ale's github stats](https://github-readme-stats.vercel.app/api?username=alepiumetti)
