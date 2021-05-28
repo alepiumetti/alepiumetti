@@ -21,6 +21,7 @@ ___
  
 - [Yoop](https://yoop.com.ar) - La primera tarjeta de beneficios para pasteleros
 - [Scraper - Dolar hoy](https://github.com/alepiumetti/scraper)
+- [Bot de Telegram](https://github.com/alepiumetti/bot-telegram-hf-rosario)
 ___
 
 ### Lo que estoy haciendo:
