@@ -9,6 +9,8 @@ ___
 
 💻 Tengo una [página web](https://alejandropiumetti.com.ar) que siempre estoy mejorando. 
 
+🖌 También diseño las páginas y todo lo gráfico referido a los proyectos en los que trabajo.
+
 🧰 Al final del día siempre me estoy ensuciando las manos con hardware.
 
 🎸 Toco la guitarra.
