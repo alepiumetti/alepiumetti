@@ -38,8 +38,6 @@ ___
 
 - [Bot de cuentas](https://github.com/kotorigadaisuki/BotDeCuentas) - Bot para Telegram para llevar los gastos.
 
-- [Blog](https://alepiumetti.github.io/blog/) - Reactivándolo para documentar mis andanzas.
-
 - [HackFun](https://hackfunrosario.com/) - Hackerspace Itinerante del que formo parte.
 
 ___
