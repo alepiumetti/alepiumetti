@@ -7,6 +7,8 @@ ___
 
 🔧 Para mis proyectos uso React.Js y Firebase.
 
+🤓 Actualmente aprendiendo backend con NodeJs
+
 💻 Tengo una [página web](https://alejandropiumetti.com.ar) que siempre estoy mejorando. 
 
 🖌 También diseño las páginas y todo lo gráfico referido a los proyectos en los que trabajo.
