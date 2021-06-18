@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Ale... 👋 
 ### Me llaman Piuma
-Soy desarrollador web y bastante inquieto.
+Soy desarrollador web y soy bastante inquieto.
 ___
 
 🎓 Estudiante de [Analista Universitario en Sistemas](https://www.ips.edu.ar/). 
