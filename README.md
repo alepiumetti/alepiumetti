@@ -5,7 +5,9 @@ ___
 
 🎓 Estudiante de [Analista Universitario en Sistemas](https://www.ips.edu.ar/). 
 
-🔧 Para mis proyectos uso React.Js y Firebase.
+💼 Actualmente trabajando en [Satelitech](https://satelitech.com) como desarrollador web.
+
+🔧 Para mis proyectos uso mayormente React.Js y Firebase.
 
 🤓 Actualmente aprendiendo backend con NodeJs
 
