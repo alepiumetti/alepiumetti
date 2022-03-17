@@ -7,7 +7,7 @@ ___
 
 💼 Actualmente trabajando en [Satelitech](http://www.satelitech.com) como desarrollador web.
 
-🔧 Para mis proyectos uso mayormente React.Js pero, complementando con NodeJs + Express y MongoDB.
+🔧 Para mis proyectos uso mayormente React.Js y complemento con NodeJs + Express y MongoDB.
 
 🧠 Aprendiendo SQL con Sqlite, React-Native y profundizando JavaScript Vanilla.
 
