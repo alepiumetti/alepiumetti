@@ -48,20 +48,6 @@ ___
 
 ___
 
-### Herramientas que utilizo:
-
-<div align="laft"><img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" height=25px/>
-<img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" height=25px/>
-<img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" height=25px/> 
-<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" height=25px/>
-<img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height=25px/>
-<img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor" height=25px/>
-<img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" height=25px/>
-<img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" height=25px/></div>
-
-
-___
-
 <a href="https://github.com/alepiumetti">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alepiumetti&layout=compact" />
 </a>
