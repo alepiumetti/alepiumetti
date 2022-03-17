@@ -7,17 +7,17 @@ ___
 
 💼 Actualmente trabajando en [Satelitech](http://www.satelitech.com) como desarrollador web.
 
-🔧 Para mis proyectos uso mayormente React.Js y Firebase.
+🔧 Para mis proyectos uso mayormente React.Js pero, complementando con NodeJs + Express y MongoDB.
 
-🤓 Actualmente aprendiendo backend con NodeJs
+🧠 Aprendiendo SQL con Sqlite, React-Native y profundizando JavaScript Vanilla.
 
-💻 Tengo una [página web](https://alejandropiumetti.com.ar) que siempre estoy mejorando. 
+💻 Tengo una [página web](https://alejandropiumetti.com.ar) que estoy construyendo.
 
 🖌 También diseño las páginas y todo lo gráfico referido a los proyectos en los que trabajo.
 
 🧰 Al final del día siempre me estoy ensuciando las manos con hardware.
 
-🎸 Toco la guitarra.
+🎸 Toco la guitarra y estoy aprendiendo a tocar el bajo.
 
 🐕 Uso stickers de gatitos pero tengo un perro.
 
@@ -25,23 +25,18 @@ ___
 
 ### Lo que hice:
  
-- [Yoop](https://yoop.com.ar) - La primera tarjeta de beneficios para pasteleros
+
+- [CLI - Packet Sender NodeJs](https://github.com/alepiumetti/packet-sender-nodejs) - Es un CLI para envíar y recibir paquetes UDP. Accesible para ejecutar en cualquier lugar que pueda correr NodeJs.
 - [Scraper - Dolar hoy](https://github.com/alepiumetti/scraper)
 - [Bot de Telegram](https://github.com/alepiumetti/bot-telegram-hf-rosario) - Presenta información a través de mensajes (Hecho template libre de uso)
-___
+- [Bot de cuentas](https://github.com/kotorigadaisuki/BotDeCuentas) - Bot para Telegram para llevar los gastos.
 
-### Lo que estoy haciendo:
-
-- Sweet - Sistema de Gestión para pasteleros
-
-- [Resoluciones en C](https://github.com/alepiumetti/IPS-TrabajosC) - Publico lo que voy a prendiendo en la facultad.
 
 ___
 
 ### En paralelo hago:
 
-- [Bot de cuentas](https://github.com/kotorigadaisuki/BotDeCuentas) - Bot para Telegram para llevar los gastos.
-
+- Sweet - Sistema de Gestión para pasteleros
 - [HackFun](https://hackfunrosario.com/) - Hackerspace Itinerante del que formo parte.
 
 ___
