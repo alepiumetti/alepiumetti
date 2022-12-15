@@ -26,11 +26,15 @@ ___
 ### Lo que hice:
  
 
-- [CLI - Packet Sender NodeJs](https://github.com/alepiumetti/packet-sender-nodejs) - Es un CLI para envíar y recibir paquetes UDP. Accesible para ejecutar en cualquier lugar que pueda correr NodeJs.
-- [Scraper - Dolar hoy](https://github.com/alepiumetti/scraper)
-- [Bot de Telegram](https://github.com/alepiumetti/bot-telegram-hf-rosario) - Presenta información a través de mensajes (Hecho template libre de uso)
-- [Bot de cuentas](https://github.com/kotorigadaisuki/BotDeCuentas) - Bot para Telegram para llevar los gastos.
+- [CLI - Packet Sender NodeJs](https://github.com/alepiumetti/packet-sender-nodejs) - Es un CLI para envíar y recibir paquetes UDP. Accesible para ejecutar en cualquier lugar que pueda correr NodeJs - NodeJs
+- [Scraper - Dolar hoy](https://github.com/alepiumetti/scraper) - NodeJs + HTML + CSS + JS Vanilla
+- [Bot de Telegram](https://github.com/alepiumetti/bot-telegram-hf-rosario) - Presenta información a través de mensajes (Hecho template libre de uso) - NodeJs
+- [Bot de cuentas](https://github.com/kotorigadaisuki/BotDeCuentas) - Bot para Telegram para llevar los gastos. - NodeJs + SQLite 3
 
+- [Paginación](https://github.com/alepiumetti/chakra-ui-table-w-pagination-sort-search) para tablas de datos con [Chakra-UI](https://chakra-ui.com/) - Componente de paginación para tablas hechas con la librería Chakra-UI - Vite + React + GitHub Pages
+[DEMO](https://alepiumetti.github.io/chakra-ui-table-w-pagination-sort-search/)
+
+- [Truchastic UI](https://github.com/alepiumetti/truchastic-ui) - Una librería basada en webcomponents inspirada en Elastic UI. - HTML + JS Vanilla
 
 ___
 
