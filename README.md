@@ -3,8 +3,6 @@
 Soy programador y soy bastante inquieto.
 ___
 
-🎓 Estudiante de [Analista Universitario en Sistemas](https://www.ips.edu.ar/). 
-
 💼 Actualmente trabajando en [Satelitech](http://www.satelitech.com) como desarrollador web.
 
 🔧 Para mis proyectos uso mayormente React.Js y complemento con NodeJs + Express y MongoDB.
