@@ -44,12 +44,6 @@ ___
 ___
 
 
-## Certificaciones: 
-
-- [MercadoPago Certified Developer](https://drive.google.com/file/d/1DbqEwTw1Kz9F4Egwpdoe1rEgkDKSjlEP/view?usp=sharing)
-
-___
-
 <a href="https://github.com/alepiumetti">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alepiumetti&layout=compact" />
 </a>
