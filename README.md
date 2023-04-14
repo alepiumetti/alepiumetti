@@ -9,7 +9,7 @@ ___
 
 💾 Como base de datos generalmente uso MongoDB pero también creé con SQLite.
 
-🐧 Casi todos las plataformas que creé las hosteé en EC2 de AWS o VPS con Ubuntu Server y me llevó a aprender las configuraciones iniciales de un servidor y NGIX.
+🐧 Casi todos las plataformas que creé las hosteé en EC2 de AWS o VPS con Ubuntu Server y me llevó a aprender las configuraciones iniciales de un servidor y Nginx.
 
 📱 Además comencé a crear apliaciones mobile con React Native + Expo y aplicaciones de escritorio con Electron.
 
