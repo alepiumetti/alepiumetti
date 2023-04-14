@@ -3,21 +3,23 @@
 Soy programador y soy bastante inquieto.
 ___
 
-💼 Actualmente trabajando en [Satelitech](http://www.satelitech.com) como desarrollador web.
+💼 Actualmente trabajando en [Satelitech](http://satelitech.com) como desarrollador full stack y Dev Lead.
 
-🔧 Para mis proyectos uso mayormente React.Js y complemento con NodeJs + Express y MongoDB.
+🔧 Para mis proyectos uso un frontend hecho en React.Js y un backend hecho con NodeJs + Express.
 
-🧠 Aprendiendo SQL con Sqlite, React-Native y profundizando JavaScript Vanilla.
+💾 Como base de datos generalmente uso MongoDB pero también creé con SQLite.
+
+🐧 Casi todos las plataformas que creé las hosteé en EC2 de AWS o VPS con Ubuntu Server y me llevó a aprender las configuraciones iniciales de un servidor y NGIX.
+
+📱 Además comencé a crear apliaciones mobile con React Native + Expo y aplicaciones de escritorio con Electron.
 
 💻 Tengo una [página web](https://alejandropiumetti.com.ar) que estoy construyendo.
 
-🖌 También diseño las páginas y todo lo gráfico referido a los proyectos en los que trabajo.
+🖌 También diseño las páginas y todo lo gráfico referido a los proyectos en los que trabajo con Figma.
 
 🧰 Al final del día siempre me estoy ensuciando las manos con hardware.
 
-🎸 Toco la guitarra y estoy aprendiendo a tocar el bajo.
-
-🐕 Uso stickers de gatitos pero tengo un perro.
+🎸 Toco la guitarra y estoy aprendiendo a tocar el piano y el bajo.
 
 ___
 
