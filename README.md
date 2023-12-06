@@ -13,8 +13,6 @@ ___
 
 📱 Además comencé a crear apliaciones mobile con React Native + Expo y aplicaciones de escritorio con Electron.
 
-💻 Tengo una [página web](https://alejandropiumetti.com.ar) que estoy constantemente actualizando.
-
 🖌 También diseño las páginas y todo lo gráfico referido a los proyectos en los que trabajo con Figma.
 
 🧰 Al final del día siempre me estoy ensuciando las manos con hardware.
