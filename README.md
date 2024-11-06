@@ -15,8 +15,6 @@ ___
 
 🖌 También diseño las páginas y todo lo gráfico referido a los proyectos en los que trabajo con Figma.
 
-🧰 Al final del día siempre me estoy ensuciando las manos con hardware.
-
 🎸 Toco la guitarra y estoy aprendiendo a tocar el piano y el bajo.
 
 ___
