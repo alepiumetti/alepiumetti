@@ -1,6 +1,4 @@
 ## ¡Hola! Soy Ale... 👋 
-Soy programador y soy bastante inquieto.
-___
 
 💼 Actualmente trabajando en [Satelitech](http://satelitech.com) como desarrollador full stack y Dev Lead.
 
