@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Ale... 👋 
 
-💼 Actualmente trabajando en [Satelitech](http://satelitech.com) como desarrollador full stack y Dev Lead.
+💼 Actualmente trabajando en Provincia ART como desarrollador full stack.
 
 🔧 Para mis proyectos uso un frontend hecho en React.Js y un backend hecho con NodeJs + Express.
 
